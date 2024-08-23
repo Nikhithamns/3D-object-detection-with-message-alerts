@@ -1,0 +1,17 @@
+2024-08-14 22:19:51,299:Detected: person with confidence: 0.9926079511642456
+2024-08-14 22:19:58,585:Detected: cell phone with confidence: 0.8018131256103516
+2024-08-14 22:20:06,019:Detected: remote with confidence: 0.7522687315940857
+2024-08-14 22:20:16,087:Detected: chair with confidence: 0.7888989448547363
+2024-08-14 22:20:24,453:Detected: laptop with confidence: 0.5564696192741394
+2024-08-14 22:20:26,765:Detected: bed with confidence: 0.927747368812561
+2024-08-16 01:24:22,407:Detected: person with confidence: 0.9316724538803101
+2024-08-16 09:47:24,631:Detected: person with confidence: 0.9966227412223816
+2024-08-23 09:26:14,729:Detected: person with confidence: 0.9842705130577087
+2024-08-23 09:26:19,561:Detected: chair with confidence: 0.9499171376228333
+2024-08-23 09:26:19,562:Detected: cell phone with confidence: 0.7811416983604431
+2024-08-23 09:26:19,811:Detected: bottle with confidence: 0.6350768208503723
+2024-08-23 09:26:20,553:Detected: bench with confidence: 0.6420509815216064
+2024-08-23 09:28:08,899:Detected: person with confidence: 0.9979990124702454
+2024-08-23 09:28:24,969:Detected: cell phone with confidence: 0.5029750466346741
+2024-08-23 09:33:57,994:Detected: person with confidence: 0.974483072757721
+2024-08-23 09:37:23,844:Detected: person with confidence: 0.8150848746299744
